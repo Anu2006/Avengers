@@ -1,0 +1,20 @@
+how to install fedora in a windows 10 machine:
+(there are so many alternatives this is the way I did it)
+
+1. download the fedora image from
+   https://download.fedoraproject.org/pub/fedora/linux/releases/31/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-31-1.9.iso
+2. download and install VM Ware Workstation 
+   windows: https://www.vmware.com/go/getworkstation-win
+   linux: https://www.vmware.com/go/getworkstation-linux
+   
+3. go to file and select new vm option
+4. press next, and enter the path/to/the/fedora.iso, press next
+5. Select a vm name press next
+6. select a size, press next, finish
+7. then go to my computer in the navigator and select fedora
+8. after booting finishes, you'll get two options.
+   - to try fedora without installing
+   - to install fedora.
+   select install fedora
+9. wait until the process finishes and you've got an amazing working
+   fedora VM.
